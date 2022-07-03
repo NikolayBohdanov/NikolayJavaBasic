@@ -1,3 +1,4 @@
+package homeWork3;
 public class Alishev5 {
     public static void main(String[] args) {
         for (int i = 0; i <= 10; i++) {
