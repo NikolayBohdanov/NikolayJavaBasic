@@ -1,3 +1,5 @@
+package homeWork3;
+
 public class Alishev6 {
     public static void main(String[] args) {
         int a = 5;
@@ -5,9 +7,8 @@ public class Alishev6 {
             System.out.println("я сдам дз вовремя");
         } else if (a < 5)
             System.out.println("no possible");
-    }else
-
-    {
-        System.out.println("Ни один из возможных условий не реализовано");
+        {
+            System.out.println("Ни один из возможных условий не реализовано");
+        }
     }
 }
