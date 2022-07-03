@@ -1,9 +1,7 @@
 package homeWork4;
 //java.lang - уже импортированы
 //java.util - нужно импортировать
-
 import java.util.Scanner;
-
 public class Alishev7 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
