@@ -1,4 +1,4 @@
-package lesson1bohdanov;
+package homeWork1;
 
 public class Alishev {
     public static void main(String [] args){
