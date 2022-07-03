@@ -11,5 +11,6 @@ public class Alishev {
         float myFloat = 3.14f;
         char c = 'a';
         boolean b = true;
+
     };
 }
