@@ -1,11 +1,11 @@
 package homeWork10;
 
-public class Massive20 {
+public class Task1 {
     public static void main(String[] args) {
         int[] twenty = new int[20];
         for (int i = 0; i < twenty.length; i++) {
             twenty[i] = ((int) (Math.random() * 21) - 10);
-            System.out.println(twenty[i]);
+            System.out.println(twenty[i]);  //распечатываю что бы можно было метод проверить
         }
         max(twenty);
         min(twenty);
