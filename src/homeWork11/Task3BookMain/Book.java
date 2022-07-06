@@ -10,7 +10,6 @@ public class Book {
         book.result(title);
         book.result(author);
         book.result(content);
-
     }
 
     public void show() {
