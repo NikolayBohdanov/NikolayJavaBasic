@@ -14,7 +14,7 @@ public class Task1 {
         Rectangle userRectangle = new Rectangle();
         System.out.println("The area of your rectangle is : " + userRectangle.areaCalculator(a, b) + " square meters.");
         System.out.println("Thr perimeter of your rectangle is : " + userRectangle.perimeterCalculator(a, b) + " meters.");
-
+        sides.close();
     }
 }
 
