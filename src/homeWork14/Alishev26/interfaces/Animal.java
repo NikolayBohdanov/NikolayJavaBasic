@@ -1,0 +1,20 @@
+package homeWork14.Alishev26.interfaces;
+
+public class Animal implements Info {
+    public int id;
+
+    public Animal() {
+    }
+
+    public Animal(int id) {
+        this.id = id;
+    }
+
+    public void sleep() {
+        System.out.println("I'm sleeping.");
+    }
+
+    public void showInfo() {
+        System.out.println("Id is " + this.id + ".");
+    }
+}
