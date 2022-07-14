@@ -1,6 +1,6 @@
-package homeWork13.service.imple;
+package example.service.imple;
 
-import homeWork13.service.DataBaseRedactor;
+import example.service.DataBaseRedactor;
 
 public class DataBaseImpl implements DataBaseRedactor {
     @Override

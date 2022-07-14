@@ -1,7 +1,7 @@
-package homeWork13;
+package example;
 
-import homeWork13.model.Bet;
-import homeWork13.storage.DataBase;
+import example.model.Bet;
+import example.storage.DataBase;
 
 import java.util.Arrays;
 import java.util.Scanner;

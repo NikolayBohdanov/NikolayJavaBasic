@@ -1,4 +1,4 @@
-package homeWork13.hendler;
+package example.hendler;
 
 public class ConsoleHendler {
 }

@@ -1,4 +1,4 @@
-package homeWork13.model;
+package example.model;
 
 
 public class Bet {

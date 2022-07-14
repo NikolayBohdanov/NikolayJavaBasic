@@ -1,6 +1,6 @@
-package homeWork13.storage;
+package example.storage;
 
-import homeWork13.model.Bet;
+import example.model.Bet;
 
 public class DataBase {
     public static Bet[] bets = new Bet[1];

@@ -1,4 +1,4 @@
-package homeWork13.service;
+package example.service;
 
 public interface DataBaseRedactor {
     void addBet();
