@@ -1,4 +1,4 @@
-package homeWork14.Alishev26.interfaces;
+package homeWork15.Alishev26.interfaces;
 
 public class Alishev26Test {
     public static void main(String[] args) {
