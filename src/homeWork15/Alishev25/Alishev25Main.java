@@ -1,4 +1,4 @@
-package homeWork14.Alishev25;
+package homeWork15.Alishev25;
 
 public class Alishev25Main {
     public static void main(String[] args) {
